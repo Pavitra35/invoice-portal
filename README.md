@@ -214,7 +214,7 @@ MCA Student | Full Stack Web Developer
 
 ### Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+* LinkedIn: https://www.linkedin.com/in/pavitra-22b666344/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN%2BeZxmTeQJGLBHdSDRhHhA%3D%3D
 * GitHub: https://github.com/Pavitra35
 * Email: kudripavitra@gmail.com
 
