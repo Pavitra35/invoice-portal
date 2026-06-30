@@ -62,7 +62,7 @@ invoice-portal/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/invoice-portal.git
+git clone https://github.com/Pavitra35/invoice-portal.git
 
 ### 2. Navigate to the Project
 
